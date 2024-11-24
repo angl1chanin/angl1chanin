@@ -1,18 +1,14 @@
-<h1 align="center">Hi 👋, I'm Yury</h1>
-<h3 align="center">I'm web-developer from Russia. Also information security student, interested in reverse engineering, forensic and web-security. CTF player</h3>
+#### Hi there 👋
+##### I'm Yury
 
-- 🌱 I’m currently learning **Vue, Go, Django**
+Information security student, interesting in web developing and web applications security
 
-- 📝 I regularly write articles on [t.me/+zgrXdVhM-sU2ZmUy](t.me/+zgrXdVhM-sU2ZmUy)
+-   🏡 From Russia
+-   📚 Currently learning [![Go](https://img.shields.io/badge/Go-%23000.svg?&logo=go&logoColor=blue&logoSize=auto)](#)
+-   📫 Reach me **yanglichanin@gmail.com**
 
-- 📫 How to reach me **yanglichanin@gmail.com**
+## Programming languages:
 
-- ⚡ Fun fact **I prefer to work at night**
+<!-- [![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](#) [![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)](#) [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)](#) [![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?&style=for-the-badge&logo=go&logoColor=white)](#) [![PHP](https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white)](#) [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=fff)](#) -->
 
-### Languages:
-
-![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python&logoColor=yellow) ![C](https://img.shields.io/badge/-C-090909?style=for-the-badge&logo=C&logoColor=blue) ![C++](https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C%2b%2b&logoColor=blue) ![JS](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=javascript) ![Go](https://img.shields.io/badge/-GO-090909?style=for-the-badge&logo=go)
-
-### Tools:
-
-![Django](https://img.shields.io/badge/-Django-090909?style=for-the-badge&logo=django&logoColor=20aa76) ![Vue](https://img.shields.io/badge/-Vue-090909?style=for-the-badge&logo=vuedotjs&logoColor=20aa76) ![SCSS](https://img.shields.io/badge/-Scss-090909?style=for-the-badge&logo=sass) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-090909?style=for-the-badge&logo=Bootstrap)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angl1chanin&langs_count=8&hide=css,html,scss)
